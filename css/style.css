@@ -1,0 +1,38 @@
+body {
+    padding: 20px;
+}
+
+/* ÐŸÐ¾Ð·Ð¸Ñ†Ð¸Ð¾Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ ÐºÐ°Ñ€ÑƒÑÐµÐ»Ð¸ */
+.my-carousel {
+    margin: 20px auto;
+}
+
+/* ÐšÐ°ÑÑ‚Ð¾Ð¼Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð²Ð½ÐµÑˆÐ½ÐµÐ³Ð¾ Ð²Ð¸Ð´Ð° ÐºÐ°Ñ€ÑƒÑÐµÐ»Ð¸ */
+.carousel-left:hover, .carousel-right:hover {
+    background-color: darkgray;
+}
+
+.disabled-button:hover {
+    background-color: lightgray;
+}
+
+/* Ð˜Ð½ÑÑ‚Ñ€ÑƒÐºÑ†Ð¸Ñ Ð¿Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸ÑŽ */
+.content h2 {
+    font-size: 18px;
+    margin: 20px;
+}
+
+.content p {
+    margin: 10px 40px;
+    line-height: 30px;
+}
+
+.content .p-topic {
+    margin: 10px 20px;
+}
+
+.content xmp {
+    background-color: lightgray;
+    border: 1px solid black;
+    margin: 0 40px;
+}
